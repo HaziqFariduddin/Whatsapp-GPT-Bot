@@ -1,7 +1,7 @@
 # Whatsapp-GPT-Bot
 Introducing the Whatsapp GPT Bot, an innovative chatbot powered by OpenAI's GPT-3.5-turbo and Twilio's serverless deployment. The bot is designed to engage users in a wide range of interactions, providing real-time responses to their messages. Leveraging advanced AI capabilities, the bot can perform various tasks such as translation, image generation, writing, answering questions, and much more.
 
-To test this bot, simply message this number: wa.me/+601173958264
+To test this bot, simply message this number: [wa.me/+601173958264](wa.me/+601173958264)
 
 # Features:
 
