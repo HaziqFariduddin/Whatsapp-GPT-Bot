@@ -17,5 +17,12 @@ For other types of messages, the bot engages GPT-3.5-turbo to generate contextua
 # Usage:
 To interact with the Whatsapp GPT Bot, simply send a message to the bot's designated WhatsApp number. Depending on the nature of your message, the bot will generate text or images in response. Get ready to experience a cutting-edge AI chatbot that showcases the powerful capabilities of OpenAI's GPT-3.5-turbo and Twilio's serverless deployment. Enjoy exploring the vast range of tasks and services offered by the Whatsapp GPT Bot! 🤖💬
 
+# How to use:
+- You need to setup Twillio account with a phone number for Whatsapp
+- clone the code and then NPM install all the dependencies
+- make any changes as per your desire, 
+- save and run this in terminal 'twilio serverless:deploy'
+- Copy the function url and paste as webhook for Whatsapp event handler in Twillio
+
 # Check my other projects:
 [image-generator-client](https://github.com/HaziqFariduddin/Image-Generator-Client) repository for more information on the image generation functionality.
